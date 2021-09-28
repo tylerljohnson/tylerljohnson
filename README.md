@@ -1,2 +1,2 @@
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=tylerljohnson&theme=react-dark&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=tylerljohnson&theme=github-light&hide_border=true&area=true)
