@@ -2,6 +2,7 @@
 # osx setup/install
 
 ## brew
+```
 gh       GitHub command-line tool
 jq       Lightweight and flexible command-line JSON processor
 maven    Java-based project management
@@ -13,3 +14,4 @@ p7zip    7-Zip (high compression file archiver) implementation
 tree     Display directories as trees (with optional color/HTML output)
 vim      Vi 'workalike' with many additional features
 wget     Internet file retriever
+```
