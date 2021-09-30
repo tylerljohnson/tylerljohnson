@@ -1,8 +1,17 @@
 
 # osx setup/install
 
-## brew
+## [HomeBrew](https://brew.sh/)
+
+```Shell
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+```Shell
+brew install gh jq maven mdcat bat broot nghttp2 p7zip tree vim wget
+```
+
+```AsciiDoc
 gh       GitHub command-line tool
 jq       Lightweight and flexible command-line JSON processor
 maven    Java-based project management
